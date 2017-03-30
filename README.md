@@ -7,8 +7,6 @@ Welcome to INFO-201, Technical Foundations of Informatics.  This is a course at 
 Given the ever-changing nature of the coding world, students will be responsible for independent learning, both in terms of managing their own pace, and seeking out new skills. These modules have been designed to provide an overview of core concepts necessary for success in the course.
 
 
-## Organization
-This organization has a separate repository for each learning module.  Each module contains the following:
 
 - A tutorial on the specified skill(s)
 - Links to supplementary learning materials
